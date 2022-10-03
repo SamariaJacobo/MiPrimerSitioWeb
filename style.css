@@ -1,0 +1,57 @@
+/*Selector Universal*/
+
+*{
+    /*Color de fondo*/
+    background-color: aquamarine;
+
+    /*Color de texto*/
+    /*color: hotpink;*/
+}
+
+h1{
+    color: darksalmon;
+}
+
+h2{
+    color: rgb(241, 111, 130);
+}
+
+h3{
+    color: hotpink;
+}
+
+/*De clase*/
+
+.serif{
+    /*Tipografía*/
+    font-family: sans-serif;
+
+    /*Tamaño*/
+    font-size: x-large;
+
+    /*Peso*/
+    font-weight: 900;
+    
+    /*Alineación*/
+    text-align: center;
+}
+
+/*De id*/
+
+#rosa{
+    color: chocolate;
+}
+
+p{
+    text-align: center;
+    font-style: italic;
+}
+
+/*img, video{
+    /*ancho*/
+    width: 400px;
+    /*altura*/
+    height: 400px;
+
+
+
